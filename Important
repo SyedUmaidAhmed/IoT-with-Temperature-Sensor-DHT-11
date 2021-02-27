@@ -1,0 +1,17 @@
+https://github.com/binaryupdates/dht11-raspberrypi
+
+Libraries Installation:
+
+
+pip3 install adafruit-circuitpython-dht
+
+sudo apt-get install libgpiod2
+
+sudo pip3 install ISStreamer
+
+*Make New Account Here:
+
+https://iot.app.initialstate.com
+
+Create new bucket here, Add neccessary thgings of your requirement.
+
